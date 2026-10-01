@@ -2,6 +2,12 @@
 
 Responsive, multi-page website for Data Foods (Pvt) Ltd., Lahore, Pakistan.
 
+Live website: https://data-foods.netlify.app
+
+Repository: https://github.com/Mohsin-SS/data-foods
+
+Production deploys automatically from `main`. When moving to a custom domain, update the canonical/og:url tags, sitemap URLs, and robots.txt sitemap reference.
+
 ## Pages
 
 - Home
